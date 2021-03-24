@@ -1030,3 +1030,6 @@ footer a:hover{
     ::-webkit-scrollbar-thumb:hover {
         background: #555;
     }
+
+overflow: scroll;
+-webkit-overflow-scrolling: touch;
